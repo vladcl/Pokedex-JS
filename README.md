@@ -2,7 +2,7 @@
 
 Olá, este é um projeto realizado para estudo e conhecimento em Lógica de Programação, JavaScript e HTML/CSS. Neste projeto foi realizado uma pokedéx totalmente em JavaScript + HTML/CSS.  
 
-Para testar a aplicação aqui está o link 😎: 
+Para testar a aplicação aqui está o link 😎: https://vladcl.github.io/Pokedex-JS/
 
 
 A aplicação consome a API "PokeAPI" disponível para visualização em:
